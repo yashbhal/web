@@ -10,32 +10,32 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Hi!',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        My name is <b>Yash Bhalchandra</b>.
+        I love learning new things, and collaborating in interdisciplinary teams to solve problems and build quality products.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Experience',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        I have an <b>undergraduate degree </b>in <b>computer science</b> from Arizona State University and have worked as a 
+        <b> software developer </b>at Microchip Technology for <b>nearly two years</b>.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Learning',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Currently I'm really intrigued by the field of <b>tinyML</b> so machine learning, embedded devices, 
+        and human-computer interaction are the focus of my learning right now.     
       </>
     ),
   },
