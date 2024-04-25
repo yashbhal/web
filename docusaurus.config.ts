@@ -4,8 +4,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Yash Bhalchandra',
-  tagline: 'I like to build stuff.',
-  favicon: 'img/favicon.ico',
+  tagline: 'Software Engineer | Tech Enthusiast',
+  favicon: 'img/y-website-favicon-black.png',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
