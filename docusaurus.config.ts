@@ -68,11 +68,16 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Projects',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://www.linkedin.com/feed/',
+          label: 'LinkedIn',
+          position: 'right',
+        },
+        {
+          href: 'https://github.com/yashbhal',
           label: 'GitHub',
           position: 'right',
         },
