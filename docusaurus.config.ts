@@ -58,6 +58,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
+      style: 'primary',
       title: 'Yash Bhalchandra',
       logo: {
         alt: 'Yash Logo',
@@ -70,7 +71,10 @@ const config: Config = {
           position: 'left',
           label: 'Projects',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {
+          to: '/blog', 
+          label: 'Blog', 
+          position: 'left'},
         {
           href: 'https://www.linkedin.com/feed/',
           label: 'LinkedIn',
@@ -82,6 +86,9 @@ const config: Config = {
           position: 'right',
         },
       ],
+    },
+    colorMode: {
+      disableSwitch: true,
     },
     footer: {
       style: 'dark',
