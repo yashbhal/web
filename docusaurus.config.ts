@@ -67,14 +67,15 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'projectsSidebar',
+          sidebarId: 'aboutSidebar',
           position: 'left',
-          label: 'Projects',
+          label: 'About',
         },
         {
           to: '/blog', 
           label: 'Blog', 
-          position: 'left'},
+          position: 'left'
+        },
         {
           href: 'https://www.linkedin.com/feed/',
           label: 'LinkedIn',
