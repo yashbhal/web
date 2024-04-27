@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Hi!',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/hi.svg').default,
     description: (
       <>
         My name is <b>Yash Bhalchandra</b>.
@@ -21,7 +21,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Experience',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/writing_code.svg').default,
     description: (
       <>
         I have an <b>undergraduate degree </b>in <b>computer science</b> from Arizona State University and have worked as a 
@@ -31,7 +31,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Learning',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/learning_and_uploading.svg').default,
     description: (
       <>
         Currently I'm really intrigued by the field of <b>tinyML</b> so machine learning, embedded devices, 

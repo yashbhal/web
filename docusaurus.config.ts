@@ -62,7 +62,7 @@ const config: Config = {
       title: 'Yash Bhalchandra',
       logo: {
         alt: 'Yash Logo',
-        src: 'img/logo.svg',
+        src: 'img/guy-on-computer-small.png',
       },
       items: [
         {
