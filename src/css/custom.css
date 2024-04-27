@@ -4,7 +4,6 @@
  * work well for content-centric websites.
  */
 
-/* You can override the default Infima variables here. #2e8555; */
 :root {
   --ifm-color-primary: #274c77;
   --ifm-color-primary-dark: #23446b;
@@ -25,4 +24,62 @@
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+.card-overall {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 30px;
+}
+
+.card-title {
+  color: #274c77;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.card-position {
+  color: #274c77;
+  font-style: italic;
+  margin-bottom: 10px;
+}
+
+.meta-info {
+  color: #6c757d;
+  margin-bottom: 15px;
+}
+
+.card-description {
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.card-link {
+  margin-bottom: 15px;
+}
+
+.card-skills {
+  margin-top: 15px;
+}
+
+.card-skills h3 {
+  margin-bottom: 10px;
+  color: #274c77;
+  font-size: 16px;
+}
+
+.card-skills ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.card-skills li {
+  display: inline-block;
+  margin-right: 8px; 
+  margin-bottom: 5px;
+  padding: 3px 8px; 
+  background-color: #dee2e6;
+  border-radius: 5px;
+  color: #333;
 }
