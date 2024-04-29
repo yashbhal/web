@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yashbhal.github.io/web/blog</id>
+    <title>Yash Bhalchandra Blog</title>
+    <updated>2024-04-25T00:17:48.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://yashbhal.github.io/web/blog"/>
+    <subtitle>Yash Bhalchandra Blog</subtitle>
+    <icon>https://yashbhal.github.io/web/img/y-website-favicon-black.png</icon>
+    <entry>
+        <title type="html"><![CDATA[placeholder_blog]]></title>
+        <id>https://yashbhal.github.io/web/blog/placeholder_blog</id>
+        <link href="https://yashbhal.github.io/web/blog/placeholder_blog"/>
+        <updated>2024-04-25T00:17:48.000Z</updated>
+    </entry>
+</feed>

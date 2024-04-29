@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Yash Bhalchandra Blog</title>
+        <link>https://yashbhal.github.io/web/blog</link>
+        <description>Yash Bhalchandra Blog</description>
+        <lastBuildDate>Thu, 25 Apr 2024 00:17:48 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[placeholder_blog]]></title>
+            <link>https://yashbhal.github.io/web/blog/placeholder_blog</link>
+            <guid>https://yashbhal.github.io/web/blog/placeholder_blog</guid>
+            <pubDate>Thu, 25 Apr 2024 00:17:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
